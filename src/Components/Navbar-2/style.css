@@ -1,0 +1,45 @@
+main{
+    width: 95%;
+    height: 80px;
+    background-color: blue;
+    padding: 0 70px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: 20px auto;
+
+}
+main>div{
+    height: 100%;
+    display: grid;
+    align-items: center;
+}
+.block1{
+    color: yellow;
+    font-size: 22px;
+}
+.block2{
+    display: flex;   
+    justify-content: end;
+;
+}
+.block2>a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+.block2>a:hover{
+    text-decoration: underline;
+}
+.button{
+    width: 160px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 25px;
+    font-size: 20px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
