@@ -31,5 +31,6 @@ root.render(
 //  render ==> brazerga malumot chiqarib beradi 
 // import ==> ma`lumotni qabul qivolish 
 // export defalt vs export ==> export defalt  importda istalgan nom bilan tutib olishimiz mumkin va 1 martotaba bitta jsx file ichida ishlata olamiz  
-// export {paremtr shu corel brek orqali istagancha ma`lumot kirita olamiz  }
+// export  {paremtr shu corel brek orqali istagancha ma`lumot kirita olamiz  }
+// as  ==> update qilib beradi uzidan oldingi paremtrni
 
