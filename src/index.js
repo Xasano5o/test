@@ -26,11 +26,14 @@ root.render(
 // JSX ==>  React yozilgan code jsx formadda bo`ladi, Java script Exmel birlashmasi [Exmel]=> html oldingi verselari  , React creat elemnt shugasi, htmldagi code ichida java script ishladsa bo`ladi, java script code ihida htmlga ishladsa bo`ladi
 
 
+//              2 -dars 
 
-//           2 -dars 
-//  render ==> brazerga malumot chiqarib beradi 
+// render ==> brazerga malumot chiqarib beradi 
 // import ==> ma`lumotni qabul qivolish 
 // export defalt vs export ==> export defalt  importda istalgan nom bilan tutib olishimiz mumkin va 1 martotaba bitta jsx file ichida ishlata olamiz  
-// export  {paremtr shu corel brek orqali istagancha ma`lumot kirita olamiz  }
-// as  ==> update qilib beradi uzidan oldingi paremtrni
-
+// rcc ==> cllas compant ochish un 
+// rfc ==> fuction companet ochish un 
+// stayle berish css  qaysi divga yoki boshqaga bermoqchi b`olsag htmldagi inline berib ketamiz faqad 2 ta corel brek ochvolib shuni ichida bera olamiz
+//  event listner ==> 
+// state ==>
+// this.props.name ==>
