@@ -1,0 +1,33 @@
+
+.reactImg{
+margin: 0 auto;
+    width: 150px;
+    height: 130px;
+    display: block;
+}
+.reactImgDiv {
+        display: flex;
+        justify-content: center;
+}
+.text_1{
+    padding-top: 80px;
+}
+.text_2{
+width: 70%;
+text-align: center;
+padding-top: 20px;
+}
+.btn_1{
+ width: 150px;
+ height: 4vh;
+ margin-bottom: 20px;
+ margin-top: 30px;
+ border: 1px solid rgb(88, 78, 30);
+background-color: rgb(212, 209, 206);
+}
+.end_menu
+{   display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
