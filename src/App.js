@@ -25,3 +25,4 @@ export const App = () => {
 
 
 export default App;
+//  react 1-chi  qilgan ishim  😊 
