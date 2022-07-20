@@ -11,6 +11,13 @@ root.render(
 );
 
 
+
+
+
+
+
+
+
             //   1 -dars react kirish 
 // React nega yaxwiroq ===>    wo`rchivel doom ishladsak . tasir qiladi butin prekt yurg`izmaydi
 // React nima ==>        faceboook tomonidan ishlab chiqilgan bulib, javascript kutubxonasi    

@@ -19,3 +19,5 @@ export default class One_prect extends Component {
     )
   }
 }
+
+// enfdl;fgd
