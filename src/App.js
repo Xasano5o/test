@@ -12,9 +12,9 @@ import One_prect from './comment/one.jsx'
 export const App = () => {
     return (
         <div>
-            {/* /* <Navbar1 />
+             <Navbar1 />
             <Navbar2 />
-            <Navbar3 /> */ }
+            <Navbar3 />  
             <div className='box'>
                 <div className='menu_1'><One_prect amg={Image} /></div>
                 <div className='menu_2'><One_prect amg={AngularIcon} /></div>
